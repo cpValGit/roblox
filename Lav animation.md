@@ -2,7 +2,7 @@
 
 ## Trin 1: Opret en animation
 
-Først skal du oprette en animation enten ved at bruge Roblox's Animation Editor eller ved at downloade en animation fra Roblox's katalog eller andre steder på internettet.
+Først skal du oprette en animation enten ved at bruge Roblox's Animation Editor 8https://create.roblox.com/docs/animation/editor) eller ved at downloade en animation fra Roblox's katalog eller andre steder på internettet.
 
 ## Trin 2: Upload animationen til Roblox
 
