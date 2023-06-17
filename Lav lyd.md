@@ -33,3 +33,11 @@ Hvis du ønsker mere kontrol over lyden, kan du bruge scripts til at programmere
 ```lua
 local sound = workspace.Sound -- Erstat "Sound" med navnet på dit lydobjekt
 sound:Play()
+```
+
+Dette script vil afspille lyden, når det udføres. Du kan også programmere pause, stop og ændring af lydegenskaber ved hjælp af lignende scriptkommandoer.
+
+## Trin 4: Test og Justering
+Afspil dit spil og test lyden for at sikre, at den fungerer som forventet. Juster lydegenskaberne og placeringen af lydobjekterne efter behov for at skabe den ønskede lydoplevelse i dit spil.
+
+Det var det! Du har nu tilføjet og brugt lyde i dit Roblox-spil. Du kan eksperimentere med forskellige lydfiler og effekter for at berige spiloplevelsen.
